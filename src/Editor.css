@@ -1,0 +1,27 @@
+.editor-container {
+  border: 2px solid #ccc;
+  padding: 20px;
+  border-radius: 5px;
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.ProseMirror {
+  min-height: 300px;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+button {
+  display: block;
+  margin: 20px 0;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.word-count {
+  font-size: 24px; /* Increase font size for word count */
+  margin-top: 20px;
+  text-align: center;
+}
